@@ -1,0 +1,15 @@
+11.
+hadoop fs -mkdir -p /user/csp554
+
+12.
+hadoop fs -mkdir -p /user/csp554-2
+
+13.
+
+
+
+
+
+
+s3 url
+s3://a20521309-hw2/A20521309.txt
